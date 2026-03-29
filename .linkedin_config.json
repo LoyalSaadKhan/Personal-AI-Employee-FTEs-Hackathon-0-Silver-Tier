@@ -1,0 +1,17 @@
+ {
+      2   "post_frequency": "daily",
+      3   "post_time": "09:00",
+      4   "timezone": "Asia/Karachi",
+      5   "content_types": ["tip", "question", "insight"],
+      6   "hashtags": [
+      7     "#AI",
+      8     "#Automation",
+      9     "#Productivity",
+     10     "#DigitalTransformation",
+     11     "#BusinessEfficiency",
+     12     "#Entrepreneurship"
+     13   ],
+     14   "require_approval": true,
+     15   "auto_approve_themes": ["tips", "insights"],
+     16   "max_posts_per_day": 2
+     17 }

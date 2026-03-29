@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "d413ae3dab431c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "faaf608df46223a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8681b94ae989c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "912b91836f45e633",
+    "type": "split",
+    "children": [
+      {
+        "id": "f26d23b34797614a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37f8ea48d270a28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b97e07fcc390d11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13387da930728353",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3b902bc8a107ce8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92c1c49caa3fbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313e77d84814d012",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Done/FILE_hello_saad_20260320_044321.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FILE_hello_saad_20260320_044321"
+            }
+          },
+          {
+            "id": "813ee6b4dc4ddf00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Done/FILE_hello_saad_20260320_044321.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FILE_hello_saad_20260320_044321"
+            }
+          },
+          {
+            "id": "e3cff0f131fbd8b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f945981bc90c79c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "24d5bb095e91e1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Done/FILE_hello_saad_20260320_044321.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FILE_hello_saad_20260320_044321"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fc8681b94ae989c5",
+  "lastOpenFiles": [
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_052149.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_052149.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_052118.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_052118.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_052047.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_052047.md",
+    "Needs_Action/email/EMAIL_Hello Saad Bhai_20260323_052024.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_052016.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_052016.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051945.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051945.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051914.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051914.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051843.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051843.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051813.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051813.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051742.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051742.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051711.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051711.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051640.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051640.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051609.md",
+    "Needs_Action/email/EMAIL_【Bitget】 Deposit successful_20260323_051609.md",
+    "Needs_Action/email/EMAIL_💰🐏 عید الاضحیٰ مبارک! اپنے ڈپازٹ پر 70٪ بونس حاصل_20260323_051538.md",
+    "Logs/2026-03-23.log",
+    "Social/linkedin_notifications",
+    "Logs/2026-03-20.log"
+  ]
+}

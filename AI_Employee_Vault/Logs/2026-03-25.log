@@ -1,0 +1,44 @@
+2026-03-25 08:18:03,053 - Orchestrator - INFO - Orchestrator initialized
+2026-03-25 08:18:03,054 - Orchestrator - INFO - Vault: C:\Users\Jawaria Noor\Desktop\Personal-AI-Employee-FTEs\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-25 08:18:03,054 - Orchestrator - INFO - Starting Orchestrator...
+2026-03-25 08:18:03,055 - Orchestrator - INFO - Check interval: 30s
+2026-03-25 08:18:03,055 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-03-25 08:48:30,847 - Orchestrator - INFO - Orchestrator initialized
+2026-03-25 08:48:30,848 - Orchestrator - INFO - Vault: C:\Users\Jawaria Noor\Desktop\Personal-AI-Employee-FTEs\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-25 08:48:30,849 - Orchestrator - INFO - Check interval: 30s
+2026-03-25 08:48:30,849 - Orchestrator - INFO - Starting Orchestrator...
+2026-03-25 08:48:30,849 - Orchestrator - INFO - Check interval: 30s
+2026-03-25 08:48:30,849 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-03-25 08:48:30,850 - Orchestrator - INFO - 
+2026-03-25 08:49:34,109 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-25 08:49:34,510 - Orchestrator - INFO - Orchestrator initialized
+2026-03-25 08:49:34,510 - Orchestrator - INFO - Vault: C:\Users\Jawaria Noor\Desktop\Personal-AI-Employee-FTEs\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-25 08:49:34,511 - Orchestrator - INFO - Check interval: 5s
+2026-03-25 08:49:34,511 - Orchestrator - INFO - Starting Orchestrator...
+2026-03-25 08:49:34,511 - Orchestrator - INFO - Check interval: 5s
+2026-03-25 08:49:34,512 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-03-25 08:49:34,512 - Orchestrator - INFO - 
+2026-03-25 08:49:34,525 - Orchestrator - INFO - Found 1 pending item(s)
+2026-03-25 08:49:41,758 - Orchestrator - INFO - Qwen Code found, triggering processing...
+2026-03-25 08:49:41,759 - Orchestrator - INFO - Qwen Code found, triggering processing...
+2026-03-25 08:53:19,401 - Orchestrator - INFO - Qwen processed the request
+2026-03-25 08:53:19,403 - Orchestrator - INFO - Qwen Code processing complete
+2026-03-25 10:52:41,557 - Orchestrator - INFO - Orchestrator initialized
+2026-03-25 10:52:41,568 - Orchestrator - INFO - Vault: C:\Users\Jawaria Noor\Desktop\Personal-AI-Employee-FTEs\Personal-AI-Employee-FTEs\AI_Employee_Vault
+2026-03-25 10:52:41,569 - Orchestrator - INFO - Check interval: 30s
+2026-03-25 10:52:41,569 - Orchestrator - INFO - Starting Orchestrator...
+2026-03-25 10:52:41,569 - Orchestrator - INFO - Check interval: 30s
+2026-03-25 10:52:41,569 - Orchestrator - INFO - Press Ctrl+C to stop
+2026-03-25 10:52:41,570 - Orchestrator - INFO - 
+2026-03-25 11:07:14,361 - Orchestrator - INFO - Processing approved item: EMAIL_test_mcp_20260325.md
+2026-03-25 11:07:14,401 - Orchestrator - INFO - Sending email to loyalsaadkhan05@gmail.com via MCP...
+2026-03-25 11:07:14,401 - Orchestrator - INFO - MCP email send requested
+2026-03-25 11:07:14,418 - Orchestrator - INFO - Email sent to loyalsaadkhan05@gmail.com
+2026-03-25 11:07:14,611 - Orchestrator - INFO - Moved to Done: EMAIL_test_mcp_20260325.md
+2026-03-25 11:17:14,925 - Orchestrator - INFO - Processing approved item: plan_email_kiya_kar_raha_ho_20260325.md
+2026-03-25 11:17:15,009 - Orchestrator - INFO - Moved to Done: plan_email_kiya_kar_raha_ho_20260325.md
+2026-03-25 11:38:45,582 - Orchestrator - INFO - Processing approved item: EMAIL_reply_20260325_113453.md
+2026-03-25 11:38:45,584 - Orchestrator - INFO - Sending email to client@example.com via MCP...
+2026-03-25 11:38:45,585 - Orchestrator - INFO - MCP email send requested
+2026-03-25 11:38:45,616 - Orchestrator - INFO - Email sent to client@example.com
+2026-03-25 11:38:45,816 - Orchestrator - INFO - Moved to Done: EMAIL_reply_20260325_113453.md
