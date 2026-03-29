@@ -16,3 +16,8 @@ npm-debug.log
 *.token
 credentials.json
 .env
+
+# Browser Sessions (large binary files)
+AI_Employee_Vault/.linkedin/session/
+AI_Employee_Vault/.linkedin/browser_session/
+AI_Employee_Vault/.gmail/token.json
